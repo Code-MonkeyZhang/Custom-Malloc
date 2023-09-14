@@ -1,0 +1,4 @@
+Intel(R)Xeon(R)CPUE5-1620v3@3.50GHz:regular:20092
+Intel(R)Core(TM)i5-7200UCPU@2.50GHz:regular:15873
+Intel(R)Xeon(R)Platinum8168CPU@2.70GHz:regular:19985
+Intel(R)Xeon(R)Platinum8272CLCPU@2.60GHz:regular:20966
